@@ -1,52 +1,72 @@
-<h1 align="center">👋 Hey, I'm Raimundo Almada</h1>
+<h1 align="center">Hey, I'm Raimundo Pessoa Almada</h1>
 
 <p align="center">
-  🛠️ SRE & DevOps • 💣 Reverse Engineering • 💻 Software Engineer • 🧬 Hardware Enthusiast
+  SRE & DevOps • Software Engineer • AI Systems • Security Research • Hardware Curious
 </p>
 
 ---
 
-## 💻 About Me
+## About Me
+
+I build and operate systems that need to survive contact with reality.
+
+My background sits between SRE, DevOps, software engineering, security, and low-level technical curiosity. I like understanding how things work below the friendly abstraction layer: protocols, runtimes, infrastructure, automation, hardware, and the failure modes people usually discover too late.
+
+Lately I have been working a lot with LLM-based systems: RAG pipelines, Langflow, reasoning loops, agent workflows, evaluation harnesses, prompt quality, and the boring but necessary parts that make AI features observable, testable, and less magical.
 
 ```bash
-> whoami
-SRE / DevOps specialist with a passion for hacking, low-level internals, and breaking stuff to learn.
+> focus
+SRE / DevOps / Software Engineering / AI Systems
 
-> languages --high
-JavaScript • TypeScript • Node.js • Python • Ruby
+> currently
+LLM apps • RAG • reasoning loops • evaluations • agent workflows
 
-> love --deep
-Reverse Engineering • Protocol Sniffing • Hardware Debugging • Secure Automation
-````
+> interested_in
+Reliability • automation • security • reverse engineering • hardware debugging
 
----
-
-## ⚙️ Toolbox
-
-* 🐳 Docker, Kubernetes, GitHub Actions
-* ☁️ AWS, Terraform, CI/CD Pipelines
-* 🧠 JS/TS, Python, Ruby, Bash
-* 🧰 Linux, Networking, Protocols, Reverse Eng
-* 💡 Automation addict, zero trust believer
+> bias
+Make it work. Make it observable. Then make it boring enough to trust.
+```
 
 ---
 
-## 🚀 GitHub Stats
+## Toolbox
+
+- Infrastructure: Docker, Kubernetes, AWS, Terraform, CI/CD
+- Automation: GitHub Actions, Bash, Python, workflow orchestration
+- Software: JavaScript, TypeScript, Node.js, Python, Ruby
+- AI systems: RAG, Langflow, LLM reasoning loops, evals, prompt engineering
+- Security: protocol analysis, reverse engineering, secure automation
+- Systems: Linux, networking, observability, incident response
+
+---
+
+## What I Care About
+
+- Systems that fail loudly instead of silently lying.
+- Automation that reduces operational load instead of creating hidden coupling.
+- AI features with traces, evals, contracts, and measurable behavior.
+- Security as engineering discipline, not theater.
+- Understanding the stack deeply enough to debug it when the dashboard stops being useful.
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cybernetto&show_icons=true&theme=default" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybernetto&layout=compact&theme=default" width="335" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hi-mundo&show_icons=true&theme=default" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-mundo&layout=compact&theme=default" width="335" />
 </p>
 
 ---
 
-## 🔗 Connect
+## Connect
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/raimundo-pessoa-80a2b7157
-* 📨 Email: [net.almada@gmail.com](mailto:net.almada@gmail.com)
+- LinkedIn: [Raimundo Pessoa](https://www.linkedin.com/in/hi-mundo/)
+- Email: [me@raimundopessoa.com](mailto:me@raimundopessoa.com)
 
 ---
 
 <p align="center">
-  🧠 Build smart. Break deep. Understand everything.
+  Build carefully. Break assumptions. Measure the system.
 </p>
